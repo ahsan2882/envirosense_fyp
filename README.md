@@ -1,6 +1,6 @@
 # envirosense_fyp
 
-![Alt text](http://drive.google.com/uc?export=view&id=1LoOsGox0tw-SCclrZgzFgEqoVGGLFK1G "Optional title")
+<!-- ![Alt text](http://drive.google.com/uc?export=view&id=1LoOsGox0tw-SCclrZgzFgEqoVGGLFK1G "Optional title") -->
 
 A new Flutter application.
 
