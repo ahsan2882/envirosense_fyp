@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "638427172980",
+    "project_id": "envirosense-v2",
+    "storage_bucket": "envirosense-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638427172980:android:668fac6657a6e35ea14121",
+        "android_client_info": {
+          "package_name": "com.example.envirosense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638427172980-o3orbeidldd296r263lnqcaqbeeme256.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ubINFYIF9K1qKEb6BpV98QRgD5FmHjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638427172980-o3orbeidldd296r263lnqcaqbeeme256.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638427172980:android:2f3ab6ceb4aa8ac9a14121",
+        "android_client_info": {
+          "package_name": "com.example.envirosense_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638427172980-o3orbeidldd296r263lnqcaqbeeme256.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ubINFYIF9K1qKEb6BpV98QRgD5FmHjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638427172980-o3orbeidldd296r263lnqcaqbeeme256.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
